@@ -1,5 +1,5 @@
 public enum Operation {
     MV,
     ADD,
-    SHOW
+    EXIT, SHOW
 }
